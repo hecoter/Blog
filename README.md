@@ -1,0 +1,2 @@
+# Blog
+Hecoter' Blog!
